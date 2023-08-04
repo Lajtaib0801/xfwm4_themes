@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt update
-sudo apt install wget xfce4-dev-tools -y
+sudo apt install wget xfce4-dev-tools make -y
 mkdir ~/xfwm4themes
 cd ~/xfwm4themes
 
